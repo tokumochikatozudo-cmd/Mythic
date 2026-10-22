@@ -12,28 +12,30 @@
 > Local inference via Ollama (free, offline). Autonomous pipeline via Claude Code (free CLI).
 
 ---
-<table>
-<tr>
-<td width="38%" valign="top">
-  <video src="https://github.com/user-attachments/assets/ced37cf2-0ee8-4c79-ade4-1ffa7536fc81" controls></video>
-</td>
-<td width="62%" valign="top">
+---
 
-### 🎬 Live Demo
+
+
+
+
+
+https://github.com/user-attachments/assets/e3c5ea4f-8a0e-49da-9147-dd29122502bf
+
+
 
 Mythic running end-to-end in a local WSL terminal, fully offline with no cloud API required.
 
-**What the video shows**
+| 🚀 Integrated Startup | ⚙️ Autonomous Execution | 🧠 Local Inference |
+|:---:|:---:|:---:|
+| Boots inside a WSL terminal | Unified execution and evaluation in a single flow | Ollama backend, free and offline |
 
-- 🚀 **Integrated startup** inside a WSL terminal
-- ⚙️ **Unified autonomous execution and evaluation** in a single flow
-- 🧠 **Ollama backend** for local, free, offline inference
+---
+
+## 📌 Background & The Problem
 
 
 
-</td>
-</tr>
-</table>
+
 ## 📌 Background & The Problem
 
 In the modern cybersecurity landscape, enterprise networks and LLM applications face critical vulnerabilities stemming from a fundamental asymmetry between attackers and defenders:
