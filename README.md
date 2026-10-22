@@ -13,21 +13,9 @@
 
 ---
 
-<table>
-<tr>
-<td width="45%">
-  <video src="https://github.com/user-attachments/assets/ced37cf2-0ee8-4c79-ade4-1ffa7536fc81" controls></video>
-</td>
-<td>
-
-### 🎬 Live Demo
-- Startup terintegrasi di WSL
-- Eksekusi dan evaluasi otomatis
-- Backend Ollama lokal
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/ced37cf2-0ee8-4c79-ade4-1ffa7536fc81" width="600" controls></video>
+</p>
 
 ## 📌 Background & The Problem
 
