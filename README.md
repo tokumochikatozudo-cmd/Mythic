@@ -13,10 +13,27 @@
 
 ---
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/ced37cf2-0ee8-4c79-ade4-1ffa7536fc81" width="600" controls></video>
-</p>
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+  <video src="https://github.com/user-attachments/assets/ced37cf2-0ee8-4c79-ade4-1ffa7536fc81" controls width="100%"></video>
+</td>
+<td width="40%" valign="top">
 
+### 🎬 Live Demo
+
+Demo singkat Mythic berjalan langsung di terminal WSL.
+
+**Yang terlihat di video:**
+- Startup terintegrasi di WSL
+- Eksekusi dan evaluasi otomatis
+- Backend Ollama lokal (offline)
+
+> Durasi: 27 detik
+
+</td>
+</tr>
+</table>
 ## 📌 Background & The Problem
 
 In the modern cybersecurity landscape, enterprise networks and LLM applications face critical vulnerabilities stemming from a fundamental asymmetry between attackers and defenders:
