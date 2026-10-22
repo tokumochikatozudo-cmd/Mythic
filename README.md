@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/ced37cf2-0ee8-4c79-ade4-1ffa7536fc81
+
 
 # 🛡️ MYTHIC — Advanced Adversarial OffSec AI Framework
 ### `OpenMythos × PentestGPT` | Automated Penetration Testing Engine
@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/ced37cf2-0ee8-4c79-ade4-1ffa7536fc81
 
 > For CTF training + authorized professional pentesting.
 > Local inference via Ollama (free, offline). Autonomous pipeline via Claude Code (free CLI).
-
+https://github.com/user-attachments/assets/ced37cf2-0ee8-4c79-ade4-1ffa7536fc81
 ---
 
 ## 📌 Background & The Problem
