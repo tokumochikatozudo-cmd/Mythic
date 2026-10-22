@@ -25,14 +25,11 @@ https://github.com/user-attachments/assets/e3c5ea4f-8a0e-49da-9147-dd29122502bf
 
 Mythic running end-to-end in a local WSL terminal, fully offline with no cloud API required.
 
-| 🚀 Integrated Startup | ⚙️ Autonomous Execution | 🧠 Local Inference |
+|  Integrated Startup |  Autonomous Execution |  Local Inference |
 |:---:|:---:|:---:|
 | Boots inside a WSL terminal | Unified execution and evaluation in a single flow | Ollama backend, free and offline |
 
 ---
-
-## 📌 Background & The Problem
-
 
 
 
