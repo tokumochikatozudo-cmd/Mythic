@@ -12,24 +12,24 @@
 > Local inference via Ollama (free, offline). Autonomous pipeline via Claude Code (free CLI).
 
 ---
-
-<table width="100%">
+<table>
 <tr>
-<td width="60%" valign="top">
-  <video src="https://github.com/user-attachments/assets/ced37cf2-0ee8-4c79-ade4-1ffa7536fc81" controls width="100%"></video>
+<td width="38%" valign="top">
+  <video src="https://github.com/user-attachments/assets/ced37cf2-0ee8-4c79-ade4-1ffa7536fc81" controls></video>
 </td>
-<td width="40%" valign="top">
+<td width="62%" valign="top">
 
 ### 🎬 Live Demo
 
-Demo singkat Mythic berjalan langsung di terminal WSL.
+Mythic running end-to-end in a local WSL terminal, fully offline with no cloud API required.
 
-**Yang terlihat di video:**
-- Startup terintegrasi di WSL
-- Eksekusi dan evaluasi otomatis
-- Backend Ollama lokal (offline)
+**What the video shows**
 
-> Durasi: 27 detik
+- 🚀 **Integrated startup** inside a WSL terminal
+- ⚙️ **Unified autonomous execution and evaluation** in a single flow
+- 🧠 **Ollama backend** for local, free, offline inference
+
+
 
 </td>
 </tr>
